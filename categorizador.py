@@ -15,7 +15,7 @@ prompt_sistema = f"""
             - Produtos para o Lar
             - Beleza Natural
             - Eletrônicos Verdes
-            - Higiene Pessoal
+            - Higiene Pessoal 
 
         # Formato da Saída
         Produto: Nome do Produto
